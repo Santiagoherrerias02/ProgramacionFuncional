@@ -390,33 +390,12 @@ libros.stream()
 
 ## 👤 Información del Estudiante
 
-- **Materia:** Programación III
-- **Carrera:** Tecnicatura Universitaria en Programación
-- **Universidad:** UTN - Universidad Tecnológica Nacional
+- **Materia:** Desarrollo de Software
+- **Universidad:** UTN - Universidad Tecnológica Nacional FRM
 - **Tema:** Programación Funcional con Streams en Java
-- **Año:** 2024
 
 ---
 
 ## 📄 Licencia
 
-Este proyecto fue desarrollado con fines educativos para la materia Programación III de la UTN.
-
----
-
-## 🤝 Contribuciones
-
-Si encuentras algún error o tienes sugerencias de mejora:
-1. Reporta el issue
-2. Propón cambios mediante pull request
-3. Comparte tus propias soluciones
-
----
-
-## ⭐ Agradecimientos
-
-Gracias a los profesores de Programación III por proporcionar estos ejercicios prácticos que ayudan a comprender los conceptos fundamentales de la programación funcional en Java.
-
----
-
-**¡Happy Coding! 💻🚀**
+Este proyecto fue desarrollado con fines educativos para la materia Desarrollo de Software.
